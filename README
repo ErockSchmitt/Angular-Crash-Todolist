@@ -1,0 +1,8 @@
+Followed along with a crash course that is located here
+https://www.youtube.com/watch?v=Fdf5aTYRW0E
+
+The follwing uses Angular 2.0 and Node.js to create a simple todolist that updates both locally and on the server. 
+Uses a default todo list structure 
+
+the code from the crash course can be found here
+https://github.com/bradtraversy/angular-crash-todolist
